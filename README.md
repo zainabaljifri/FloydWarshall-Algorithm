@@ -1,6 +1,5 @@
 # Floyd-Warshall-algorithm
 ---This project is created in order to complete phase 1 of the CPCS-324 final project---<br/>
-Programming language: JAVA<br/>
 The program uses Floyd-Warshall algorithm to find all-pairs shortest-paths in a connected weighted graph<br/>
 i.e. the shortest path from the any vertex to all other vertices<br/>
 The graph representation used is nxn weighted matrix, where n is the number of vertices in the graph<br/>
